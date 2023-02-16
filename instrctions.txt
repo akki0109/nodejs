@@ -1,0 +1,6 @@
+first install npm 
+install docker 
+delete pacakage-lock.json
+run npm init
+now with help of dockerfile create docker image
+now run container with this image
